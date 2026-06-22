@@ -1,0 +1,10 @@
+*.log
+*.odb
+*.def
+*.gds
+*.spef
+*.vcd
+*.swp
+*~
+.DS_Store
+
